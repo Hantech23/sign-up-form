@@ -1,0 +1,38 @@
+* {
+    text-align: center;
+}
+
+.header {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.header img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.sign-up-to {
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.719);
+    margin: 10px 0px 20px;
+}
+
+form { 
+    border: 2px solid pink;
+}
+
+form input{
+    text-align: left;
+    font-size: 100%;
+    padding: 12px 50px 12px 12px;
+}
+
+form div {
+    margin: 0 0 10px;
+}
+
